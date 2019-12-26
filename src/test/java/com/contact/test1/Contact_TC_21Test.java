@@ -84,6 +84,7 @@ public class Contact_TC_21Test extends BaseClass{
 				Reporter.log(actOpt+"is avilable", true);
 				//s1.assertAll();
 				wbcu.waitForPageToLoad();
+				System.out.println("success");
 				
 				
 	}
