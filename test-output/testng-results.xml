@@ -53,33 +53,6 @@
       <![CDATA[8.Contact information Page Should be displayed]]>
     </line>
     <line>
-      <![CDATA[Contact Information Page displayed]]>
-    </line>
-    <line>
-      <![CDATA[Alert Window should pop-up with below details: Are you sure you want to delete this record?]]>
-    </line>
-    <line>
-      <![CDATA[8.Contact information Page Should be displayed]]>
-    </line>
-    <line>
-      <![CDATA[Contact Information Page displayed]]>
-    </line>
-    <line>
-      <![CDATA[Alert Window should pop-up with below details: Are you sure you want to delete this record?]]>
-    </line>
-    <line>
-      <![CDATA[8.Contact information Page Should be displayed]]>
-    </line>
-    <line>
-      <![CDATA[Contact Information Page displayed]]>
-    </line>
-    <line>
-      <![CDATA[Alert Window should pop-up with below details: Are you sure you want to delete this record?]]>
-    </line>
-    <line>
-      <![CDATA[8.Contact information Page Should be displayed]]>
-    </line>
-    <line>
       <![CDATA[Contacts should not be present]]>
     </line>
     <line>
@@ -113,19 +86,19 @@
       <![CDATA[logout successfully]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="282745" started-at="2019-12-26T18:19:59Z" finished-at="2019-12-26T18:24:41Z">
+  <suite name="Suite" duration-ms="278970" started-at="2019-12-27T02:21:35Z" finished-at="2019-12-27T02:26:14Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="282745" started-at="2019-12-26T18:19:59Z" finished-at="2019-12-26T18:24:41Z">
+    <test name="Test" duration-ms="278970" started-at="2019-12-27T02:21:35Z" finished-at="2019-12-27T02:26:14Z">
       <class name="com.contact.test1.Contact_TC_22Test">
-        <test-method status="PASS" signature="configBC()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="configBC" is-config="true" duration-ms="7329" started-at="2019-12-26T23:51:13Z" finished-at="2019-12-26T23:51:21Z">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="configBC" is-config="true" duration-ms="6529" started-at="2019-12-27T07:53:49Z" finished-at="2019-12-27T07:53:55Z">
           <reporter-output>
             <line>
               <![CDATA[=========lounch the browser=======]]>
             </line>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method status="PASS" signature="configBM()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="configBM" is-config="true" duration-ms="15664" started-at="2019-12-26T23:51:21Z" finished-at="2019-12-26T23:51:36Z">
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="configBM" is-config="true" duration-ms="14343" started-at="2019-12-27T07:53:55Z" finished-at="2019-12-27T07:54:10Z">
           <reporter-output>
             <line>
               <![CDATA[=======login=======]]>
@@ -135,37 +108,10 @@
             </line>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method status="PASS" signature="OpenContactAndDeleteThatContact()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="OpenContactAndDeleteThatContact" duration-ms="111329" started-at="2019-12-26T23:51:36Z" finished-at="2019-12-26T23:53:28Z">
+        <test-method status="PASS" signature="OpenContactAndDeleteThatContact()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="OpenContactAndDeleteThatContact" duration-ms="64073" started-at="2019-12-27T07:54:10Z" finished-at="2019-12-27T07:55:14Z">
           <reporter-output>
             <line>
               <![CDATA[Contact Page displayed]]>
-            </line>
-            <line>
-              <![CDATA[Contact Information Page displayed]]>
-            </line>
-            <line>
-              <![CDATA[Alert Window should pop-up with below details: Are you sure you want to delete this record?]]>
-            </line>
-            <line>
-              <![CDATA[8.Contact information Page Should be displayed]]>
-            </line>
-            <line>
-              <![CDATA[Contact Information Page displayed]]>
-            </line>
-            <line>
-              <![CDATA[Alert Window should pop-up with below details: Are you sure you want to delete this record?]]>
-            </line>
-            <line>
-              <![CDATA[8.Contact information Page Should be displayed]]>
-            </line>
-            <line>
-              <![CDATA[Contact Information Page displayed]]>
-            </line>
-            <line>
-              <![CDATA[Alert Window should pop-up with below details: Are you sure you want to delete this record?]]>
-            </line>
-            <line>
-              <![CDATA[8.Contact information Page Should be displayed]]>
             </line>
             <line>
               <![CDATA[Contact Information Page displayed]]>
@@ -190,11 +136,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- OpenContactAndDeleteThatContact -->
-        <test-method status="PASS" signature="configAM()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="configAM" is-config="true" duration-ms="3" started-at="2019-12-26T23:53:28Z" finished-at="2019-12-26T23:53:28Z">
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="configAM" is-config="true" duration-ms="3" started-at="2019-12-27T07:55:14Z" finished-at="2019-12-27T07:55:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method status="PASS" signature="configAc()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="configAc" is-config="true" duration-ms="1509" started-at="2019-12-26T23:53:28Z" finished-at="2019-12-26T23:53:29Z">
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.contact.test1.Contact_TC_22Test@73ad2d6]" name="configAc" is-config="true" duration-ms="4248" started-at="2019-12-27T07:55:14Z" finished-at="2019-12-27T07:55:18Z">
           <reporter-output>
             <line>
               <![CDATA[logout successfully]]>
@@ -203,14 +149,14 @@
         </test-method> <!-- configAc -->
       </class> <!-- com.contact.test1.Contact_TC_22Test -->
       <class name="com.contact.test1.Contact_TC_21Test">
-        <test-method status="PASS" signature="configBC()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="configBC" is-config="true" duration-ms="15612" started-at="2019-12-26T23:49:59Z" finished-at="2019-12-26T23:50:14Z">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="configBC" is-config="true" duration-ms="13145" started-at="2019-12-27T07:51:35Z" finished-at="2019-12-27T07:51:48Z">
           <reporter-output>
             <line>
               <![CDATA[=========lounch the browser=======]]>
             </line>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method status="PASS" signature="configBM()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="configBM" is-config="true" duration-ms="17865" started-at="2019-12-26T23:50:14Z" finished-at="2019-12-26T23:50:32Z">
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="configBM" is-config="true" duration-ms="51654" started-at="2019-12-27T07:51:49Z" finished-at="2019-12-27T07:52:40Z">
           <reporter-output>
             <line>
               <![CDATA[=======login=======]]>
@@ -220,7 +166,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method status="PASS" signature="createcontactwithAdministratorTest()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="createcontactwithAdministratorTest" duration-ms="39987" started-at="2019-12-26T23:50:32Z" finished-at="2019-12-26T23:51:12Z">
+        <test-method status="PASS" signature="createcontactwithAdministratorTest()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="createcontactwithAdministratorTest" duration-ms="67877" started-at="2019-12-27T07:52:40Z" finished-at="2019-12-27T07:53:48Z">
           <reporter-output>
             <line>
               <![CDATA[Creating New Contact is avilable]]>
@@ -233,11 +179,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- createcontactwithAdministratorTest -->
-        <test-method status="PASS" signature="configAM()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="configAM" is-config="true" duration-ms="2" started-at="2019-12-26T23:51:12Z" finished-at="2019-12-26T23:51:12Z">
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="configAM" is-config="true" duration-ms="3" started-at="2019-12-27T07:53:48Z" finished-at="2019-12-27T07:53:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method status="PASS" signature="configAc()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="configAc" is-config="true" duration-ms="1164" started-at="2019-12-26T23:51:12Z" finished-at="2019-12-26T23:51:13Z">
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.contact.test1.Contact_TC_21Test@3fee9989]" name="configAc" is-config="true" duration-ms="841" started-at="2019-12-27T07:53:48Z" finished-at="2019-12-27T07:53:49Z">
           <reporter-output>
             <line>
               <![CDATA[logout successfully]]>
@@ -246,14 +192,14 @@
         </test-method> <!-- configAc -->
       </class> <!-- com.contact.test1.Contact_TC_21Test -->
       <class name="com.contact.test1.Contact_TC_26Test">
-        <test-method status="PASS" signature="configBC()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="configBC" is-config="true" duration-ms="7521" started-at="2019-12-26T23:53:29Z" finished-at="2019-12-26T23:53:37Z">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="configBC" is-config="true" duration-ms="6276" started-at="2019-12-27T07:55:18Z" finished-at="2019-12-27T07:55:24Z">
           <reporter-output>
             <line>
               <![CDATA[=========lounch the browser=======]]>
             </line>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method status="PASS" signature="configBM()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="configBM" is-config="true" duration-ms="16223" started-at="2019-12-26T23:53:37Z" finished-at="2019-12-26T23:53:53Z">
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="configBM" is-config="true" duration-ms="13320" started-at="2019-12-27T07:55:24Z" finished-at="2019-12-27T07:55:38Z">
           <reporter-output>
             <line>
               <![CDATA[=======login=======]]>
@@ -263,7 +209,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method status="PASS" signature="SelectContactAndDeleteOneContactWithFooterDelete()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="SelectContactAndDeleteOneContactWithFooterDelete" duration-ms="46769" started-at="2019-12-26T23:53:53Z" finished-at="2019-12-26T23:54:40Z">
+        <test-method status="PASS" signature="SelectContactAndDeleteOneContactWithFooterDelete()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="SelectContactAndDeleteOneContactWithFooterDelete" duration-ms="32104" started-at="2019-12-27T07:55:38Z" finished-at="2019-12-27T07:56:10Z">
           <reporter-output>
             <line>
               <![CDATA[Contact Page Should be displayed]]>
@@ -282,11 +228,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- SelectContactAndDeleteOneContactWithFooterDelete -->
-        <test-method status="PASS" signature="configAM()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="configAM" is-config="true" duration-ms="1" started-at="2019-12-26T23:54:40Z" finished-at="2019-12-26T23:54:40Z">
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="configAM" is-config="true" duration-ms="1" started-at="2019-12-27T07:56:10Z" finished-at="2019-12-27T07:56:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method status="PASS" signature="configAc()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="configAc" is-config="true" duration-ms="1690" started-at="2019-12-26T23:54:40Z" finished-at="2019-12-26T23:54:41Z">
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.contact.test1.Contact_TC_26Test@7085bdee]" name="configAc" is-config="true" duration-ms="4380" started-at="2019-12-27T07:56:10Z" finished-at="2019-12-27T07:56:14Z">
           <reporter-output>
             <line>
               <![CDATA[logout successfully]]>

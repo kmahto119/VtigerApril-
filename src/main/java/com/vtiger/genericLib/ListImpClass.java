@@ -10,29 +10,21 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-/**
- * 
- * @author kamlesh
- *
- */
-
 public class ListImpClass implements ITestListener  {
 
-	public void onFinish(ITestContext arg0) {
+	@Override
+	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
 		
 	}
 
-	public void onStart(ITestContext arg0) {
+	@Override
+	public void onTestSuccess(ITestResult result) {
 		// TODO Auto-generated method stub
 		
 	}
 
-	public void onTestFailedButWithinSuccessPercentage(ITestResult arg0) {
-		// TODO Auto-generated method stub
-		
-	}
-
+	@Override
 	public void onTestFailure(ITestResult result) {
 		Date date=new Date();
 		String currentDate=date.toString().replace(":", "_").replace(" ", "_");
@@ -52,26 +44,28 @@ public class ListImpClass implements ITestListener  {
 		
 	}
 
-	public void onTestSkipped(ITestResult arg0) {
+	@Override
+	public void onTestSkipped(ITestResult result) {
 		// TODO Auto-generated method stub
 		
 	}
 
-	public void onTestStart(ITestResult arg0) {
+	@Override
+	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
 		// TODO Auto-generated method stub
 		
 	}
 
-	public void onTestSuccess(ITestResult arg0) {
+	@Override
+	public void onStart(ITestContext context) {
 		// TODO Auto-generated method stub
 		
 	}
-	/**
-	 * 
-	 * used to take screenshot whenever est getting failed
-	 * 
-	 */
 
-	
+	@Override
+	public void onFinish(ITestContext context) {
+		// TODO Auto-generated method stub
+		
+	}
 
 }

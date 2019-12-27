@@ -5,8 +5,14 @@
     <classes>
       <class name="com.contact.test1.Contact_TC_21Test"/>
       <class name="com.contact.test1.Contact_TC_22Test"/>
-      
+      <class name="com.contact.test1.Contact_TC_23Test"/>
+      <class name="com.contact.test1.Contact_TC_24Test"/>
+      <class name="com.contact.test1.Contact_TC_25Test"/>
       <class name="com.contact.test1.Contact_TC_26Test"/>
+      <class name="com.contact.test1.Contact_TC_27Test"/>
+      <class name="com.contact.test1.Contact_TC_28Test"/>
+      <class name="com.contact.test1.Contact_TC_29Test"/>
+      <class name="com.contact.test1.Contact_TC_30Test"/>
       
    
     </classes>
