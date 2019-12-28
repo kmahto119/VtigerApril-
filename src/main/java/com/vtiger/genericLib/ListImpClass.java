@@ -10,7 +10,7 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-public class ListImpClass implements ITestListener  {
+public class ListImpClass implements ITestListener {
 
 	@Override
 	public void onTestStart(ITestResult result) {
@@ -40,6 +40,7 @@ public class ListImpClass implements ITestListener  {
 		}
 		catch (Exception e) {
 			// TODO: handle exception
+			System.out.println("wxeception");
 		}
 		
 	}
